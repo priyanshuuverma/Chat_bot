@@ -1,4 +1,4 @@
-#  OUTPUT
+#  Output
 
 ![image](https://github.com/user-attachments/assets/10c02602-efe3-49bd-99bf-3ec7e4e7d21c)
 ![image](https://github.com/user-attachments/assets/cbc23ebd-c84b-430a-a62d-010e9b5013fd)
